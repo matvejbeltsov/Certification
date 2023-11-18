@@ -1,0 +1,14 @@
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\bin\Debug\net7.0\Task_1.exe
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\bin\Debug\net7.0\Task_1.deps.json
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\bin\Debug\net7.0\Task_1.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\bin\Debug\net7.0\Task_1.pdb
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.pdb
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+C:\Users\matve\Desktop\Программирование\C, C++, C#\Seminar_9\Task_1\obj\Debug\net7.0\ref\Task_1.dll
